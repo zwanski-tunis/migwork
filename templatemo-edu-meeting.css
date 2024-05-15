@@ -110,7 +110,7 @@ ul {
 p {
   font-size: 14px;
   line-height: 25px;
-  color: #2a2a2a;
+  color: #f6f0f0;
 }
 
 img {
@@ -254,12 +254,12 @@ header
 }
 
 .background-header .main-nav .nav li a {
-  color: #1e1e1e!important;
+  color: #e9dede!important;
 }
 
 .background-header .logo,
 .background-header .main-nav .nav li a {
-  color: #1e1e1e!important;
+  color: #e9e3e3!important;
 }
 
 .background-header .main-nav .nav li:hover a {
@@ -375,7 +375,7 @@ header
 }
 
 .background-header .main-nav .nav li.has-sub:after {
-  color: #1e1e1e;
+  color: #eadcdc;
 }
 
 .header-area .main-nav .nav li.has-sub ul.sub-menu {
@@ -401,7 +401,7 @@ header
   opacity: 1;
   display: block;
   background: #f7f7f7;
-  color: #2a2a2a!important;
+  color: #e2d8d8!important;
   padding-left: 20px;
   height: 40px;
   line-height: 40px;
@@ -468,7 +468,7 @@ header
 .background-header .main-nav .menu-trigger span,
 .background-header .main-nav .menu-trigger span:before,
 .background-header .main-nav .menu-trigger span:after {
-  background-color: #1e1e1e;
+  background-color: #e5e4e4;
 }
 
 .header-area .main-nav .menu-trigger span:before,
@@ -477,7 +477,7 @@ header
   -o-transition: all 0.4s;
   -webkit-transition: all 0.4s;
   transition: all 0.4s;
-  background-color: #1e1e1e;
+  background-color: #cdc8c8;
   display: block;
   position: absolute;
   width: 30px;
@@ -529,11 +529,11 @@ header
   -ms-transform: translateY(6px) translateX(1px) rotate(45deg);
   -webkit-transform: translateY(6px) translateX(1px) rotate(45deg);
   transform: translateY(6px) translateX(1px) rotate(45deg);
-  background-color: #1e1e1e;
+  background-color: #e0d8d8;
 }
 
 .background-header .main-nav .menu-trigger.active span:before {
-  background-color: #1e1e1e;
+  background-color: #d4cfcf;
 }
 
 .header-area .main-nav .menu-trigger.active span:after {
@@ -541,11 +541,11 @@ header
   -ms-transform: translateY(-6px) translateX(1px) rotate(-45deg);
   -webkit-transform: translateY(-6px) translateX(1px) rotate(-45deg);
   transform: translateY(-6px) translateX(1px) rotate(-45deg);
-  background-color: #1e1e1e;
+  background-color: #c6c2c2;
 }
 
 .background-header .main-nav .menu-trigger.active span:after {
-  background-color: #1e1e1e;
+  background-color: #ebe3e3;
 }
 
 .header-area.header-sticky {
@@ -572,7 +572,7 @@ header
 
 @media (max-width: 767px) {
   .header-area .main-nav .logo {
-    color: #1e1e1e;
+    color: #f2eaea;
   }
   .header-area.header-sticky .nav li a:hover,
   .header-area.header-sticky .nav li a.active {
@@ -630,7 +630,7 @@ header
     padding: 0px !important;
     border: none !important;
     background: #f7f7f7 !important;
-    color: #191a20 !important;
+    color: #dfe0e7 !important;
   }
   .header-area .main-nav .nav li a:hover {
     background: #eee !important;
@@ -704,7 +704,7 @@ banner
 
 .video-overlay {
     position: absolute;
-    background-color: rgba(31,39,43,0.75);
+    background-color: rgba(200, 206, 210, 0.75);
     top: 0;
     left: 0;
     bottom: 0;
@@ -830,7 +830,7 @@ services
 .services .owl-nav .owl-prev:before {
   display: inline-block;
   font-family: 'FontAwesome';
-  color: #1e1e1e;
+  color: #ece6e6;
   font-size: 25px;
   font-weight: 700;
   content: '\f104';
@@ -911,7 +911,7 @@ section.upcoming-meetings .categories {
 section.upcoming-meetings .categories h4 {
   font-size: 18px;
   font-weight: 600;
-  color: #1f272b;
+  color: #818689;
   margin-bottom: 30px;
   padding-bottom: 20px;
   border-bottom: 1px solid #eee;
@@ -965,7 +965,7 @@ section.upcoming-meetings .categories .main-button-red a {
 
 .meeting-item .thumb .price span {
   font-size: 16px;
-  color: #1f272b;
+  color: #c2c7ca;
   font-weight: 600;
   background-color: rgba(250,250,250,0.9);
   padding: 7px 12px;
